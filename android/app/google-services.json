@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846755083377",
+    "project_id": "republic-115fd",
+    "storage_bucket": "republic-115fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846755083377:android:d154e87fcff78c606d97d0",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846755083377-mu9f9pscpjr5vnpspv178gtdkrrp29kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvU0dAoo8Ptp0M3WXSiKd9p-Ek1V7daG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846755083377-mu9f9pscpjr5vnpspv178gtdkrrp29kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
